@@ -1,0 +1,20 @@
+.bg-info-customise{
+    background-color: rgba(38, 70, 83, 1);
+    
+}
+.btn-danger-customise{
+ background: rgba(231, 111, 81, 1);
+    
+}
+.text-danger-customise{
+     color: rgba(231, 111, 81, 1);
+    
+}
+.btn-success-customise{
+    background: rgba(231, 111, 81, 1);
+    color: azure;
+    
+}
+.fas {
+     color: rgba(231, 111, 81, 1) ;
+}
